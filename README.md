@@ -3,7 +3,7 @@
 THe API services for central are listed below:
 
 1.  Convert Reference ID (RefID) to Record (Rec)
-  1.	Parameters passed from client:
+  1.1	Parameters passed from client:
 
 a.	NRIC Hashed value (RefID): alphanumeric 100
 
